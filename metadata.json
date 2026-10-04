@@ -1,0 +1,6 @@
+{
+  "name": "TradeCost Pro",
+  "description": "Mobile CRM, voice-to-estimate job costing, real-time material margin lookup, and instant tap-to-pay invoicing for trade contractors.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
